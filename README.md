@@ -113,7 +113,7 @@ The sample code below shows how to pass a `Nobel` object to the `Linking` constr
 
 ```JavaScript
 // Create a Noble object
-const noble = require('noble');
+const noble = require('@abandonware/noble');
 
 // Create a Linking object
 const BeaconScanner = require('node-beacon-scanner');
